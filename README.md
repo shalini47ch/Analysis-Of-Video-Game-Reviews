@@ -29,3 +29,7 @@ _Before data cleaning i had 3 csv files termed as ps4,xbox and switch .These 3 w
 
 _Same was applied for reviews as well there were two csv termed as meta review and user review.They were merged together and saved in a single file termed as review.csv_
 
+<img width="671" alt="image" src="https://user-images.githubusercontent.com/60210475/152519851-b879bca4-b493-4fc4-8017-cd5885d89a7f.png">
+<img width="493" alt="image" src="https://user-images.githubusercontent.com/60210475/152519920-d132d87a-e640-4971-a496-142383c65786.png">
+
+
